@@ -123,7 +123,6 @@ namespace dal.Repository
                     if (order != null)
                     {
                         order.OrderAmount -= ProductPrice;
-                        
                         obj1.Items.Remove(RemoveList);
                         obj1.SaveChanges();
                     }
