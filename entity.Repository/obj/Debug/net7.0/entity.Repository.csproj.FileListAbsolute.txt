@@ -1,0 +1,11 @@
+D:\OrdercSharpPro\Mysln\entity.Repository\bin\Debug\net7.0\entity.Repository.deps.json
+D:\OrdercSharpPro\Mysln\entity.Repository\bin\Debug\net7.0\entity.Repository.dll
+D:\OrdercSharpPro\Mysln\entity.Repository\bin\Debug\net7.0\entity.Repository.pdb
+D:\OrdercSharpPro\Mysln\entity.Repository\obj\Debug\net7.0\entity.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\OrdercSharpPro\Mysln\entity.Repository\obj\Debug\net7.0\entity.Repository.AssemblyInfoInputs.cache
+D:\OrdercSharpPro\Mysln\entity.Repository\obj\Debug\net7.0\entity.Repository.AssemblyInfo.cs
+D:\OrdercSharpPro\Mysln\entity.Repository\obj\Debug\net7.0\entity.Repository.csproj.CoreCompileInputs.cache
+D:\OrdercSharpPro\Mysln\entity.Repository\obj\Debug\net7.0\entity.Repository.dll
+D:\OrdercSharpPro\Mysln\entity.Repository\obj\Debug\net7.0\refint\entity.Repository.dll
+D:\OrdercSharpPro\Mysln\entity.Repository\obj\Debug\net7.0\entity.Repository.pdb
+D:\OrdercSharpPro\Mysln\entity.Repository\obj\Debug\net7.0\ref\entity.Repository.dll

@@ -1,0 +1,17 @@
+D:\OrdercSharpPro\Mysln\dal.Repository\bin\Debug\net7.0\dal.Repository.deps.json
+D:\OrdercSharpPro\Mysln\dal.Repository\bin\Debug\net7.0\dal.Repository.runtimeconfig.json
+D:\OrdercSharpPro\Mysln\dal.Repository\bin\Debug\net7.0\dal.Repository.dll
+D:\OrdercSharpPro\Mysln\dal.Repository\bin\Debug\net7.0\dal.Repository.pdb
+D:\OrdercSharpPro\Mysln\dal.Repository\bin\Debug\net7.0\entity.Repository.dll
+D:\OrdercSharpPro\Mysln\dal.Repository\bin\Debug\net7.0\entity.Repository.pdb
+D:\OrdercSharpPro\Mysln\dal.Repository\obj\Debug\net7.0\dal.Repository.csproj.AssemblyReference.cache
+D:\OrdercSharpPro\Mysln\dal.Repository\obj\Debug\net7.0\dal.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\OrdercSharpPro\Mysln\dal.Repository\obj\Debug\net7.0\dal.Repository.AssemblyInfoInputs.cache
+D:\OrdercSharpPro\Mysln\dal.Repository\obj\Debug\net7.0\dal.Repository.AssemblyInfo.cs
+D:\OrdercSharpPro\Mysln\dal.Repository\obj\Debug\net7.0\dal.Repository.csproj.CoreCompileInputs.cache
+D:\OrdercSharpPro\Mysln\dal.Repository\obj\Debug\net7.0\dal.Repository.csproj.CopyComplete
+D:\OrdercSharpPro\Mysln\dal.Repository\obj\Debug\net7.0\dal.Repository.dll
+D:\OrdercSharpPro\Mysln\dal.Repository\obj\Debug\net7.0\refint\dal.Repository.dll
+D:\OrdercSharpPro\Mysln\dal.Repository\obj\Debug\net7.0\dal.Repository.pdb
+D:\OrdercSharpPro\Mysln\dal.Repository\obj\Debug\net7.0\dal.Repository.genruntimeconfig.cache
+D:\OrdercSharpPro\Mysln\dal.Repository\obj\Debug\net7.0\ref\dal.Repository.dll
