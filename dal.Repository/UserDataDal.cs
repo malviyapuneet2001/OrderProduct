@@ -12,6 +12,7 @@ namespace dal.Repository
     {
         public UserDataDal()
         {
+            
         }
         //Changes
         public void AddDATA(UserData userData){
